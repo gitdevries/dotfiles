@@ -10,7 +10,7 @@
                     "leading_diamond": "\ue0b6",
                     "powerline_symbol": "\ue0b0",
                     "properties": {
-                        "template": "\ufcbe {{ .HostName }} "
+                        "template": "\ufcbe GitDeVries "
                     },
                     "style": "diamond",
                     "type": "session"
