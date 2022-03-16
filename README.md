@@ -52,3 +52,5 @@ These are my Windows dotfiles with a *bad practice* installation :)
 4. Move the contents within from `~/dotfiles` to `~`
     * *Why bad?* Cause my home folder is basic a git repo :), I do want to maybe make a install script for this later.
 5. You should be setup :)
+
+![Example Terminal](https://i.imgur.com/Lf27Xxo_d.webp?maxwidth=760&fidelity=grand)
