@@ -1,0 +1,37 @@
+# Wildcard Files
+*.ini
+*.*log*
+NT*.*
+
+# Wildcard Directories
+Creative Cloud Files/*
+Desktop/*
+Documents/*
+Downloads/*
+Dropbox/*
+Favorites/*
+Links/*
+OneDrive/*
+Pictures/*
+Saved Games/*
+scoop/*
+Searches/*
+.vscode/*
+AppData/*
+Contacts/*
+.docker/*
+.oh-my-posh/*
+Videos/*
+.ssh/*
+.config/scoop/*
+.config/nvim/plugged/*
+
+# Files
+.git-for-windows-updater
+.gitconfig
+.lesshst
+.rdm/connections.json
+.rnd
+.vivaldi_reporting_data
+user_profile.ps1
+.config/neofetch/config.conf
