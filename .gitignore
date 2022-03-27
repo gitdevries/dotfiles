@@ -3,6 +3,11 @@
 *.*log*
 NT*.*
 
+# Linux Files
+.bash*
+.profile
+.sudo_as_admin_successful
+
 # Wildcard Directories
 Creative Cloud Files/*
 Desktop/*
@@ -17,6 +22,7 @@ Saved Games/*
 scoop/*
 Searches/*
 .vscode/*
+.cache/*
 AppData/*
 Contacts/*
 .docker/*
@@ -25,6 +31,24 @@ Videos/*
 .ssh/*
 .config/scoop/*
 .config/nvim/plugged/*
+.config/QNAP
+.config/autostart
+.config/dconf
+.config/enchant
+.config/evolution
+.config/gedit
+.config/gnome*
+.config/gtk*
+.config/ibus
+.config/pop*
+.config/pulse
+.config/user*
+.dropbox*
+.mozilla/*
+.pki/*
+.gnupg/*
+.local/*
+.var/*
 
 # Files
 .git-for-windows-updater
