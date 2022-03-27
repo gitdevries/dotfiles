@@ -7,6 +7,8 @@ NT*.*
 .bash*
 .profile
 .sudo_as_admin_successful
+.wget-hsts
+.gitconfig.save
 
 # Wildcard Directories
 Creative Cloud Files/*
@@ -28,6 +30,8 @@ Contacts/*
 .docker/*
 .oh-my-posh/*
 Videos/*
+.fonts/
+.nvm/
 .ssh/*
 .config/scoop/*
 .config/nvim/plugged/*
